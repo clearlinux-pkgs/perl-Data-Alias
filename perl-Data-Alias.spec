@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Alias
 Version  : 1.21
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Data-Alias-1.21.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Data-Alias-1.21.tar.gz
 Summary  : Comprehensive set of aliasing operations
