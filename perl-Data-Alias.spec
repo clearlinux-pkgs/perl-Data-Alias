@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Alias
 Version  : 1.21
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Data-Alias-1.21.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Data-Alias-1.21.tar.gz
 Summary  : Comprehensive set of aliasing operations
@@ -86,5 +86,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/Data/Alias.pm
-/usr/lib/perl5/vendor_perl/5.30.2/x86_64-linux-thread-multi/auto/Data/Alias/Alias.so
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/Data/Alias.pm
+/usr/lib/perl5/vendor_perl/5.30.3/x86_64-linux-thread-multi/auto/Data/Alias/Alias.so
